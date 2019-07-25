@@ -4,6 +4,7 @@ def line(deli)
     return "The line is currently empty."
   else 
     current_line = " The current line is:"
+    deli.
     
-  https://learn-co.slack.com/messages/C04EWF8DH/
+
 end   
