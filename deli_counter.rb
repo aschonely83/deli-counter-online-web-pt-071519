@@ -8,4 +8,5 @@ def line(deli)
     current_line << " #{i}. #{people}"
   end
   puts current_line
+end
 end   
