@@ -3,6 +3,6 @@ def line(deli)
   if deli.empty?
     return "The line is currently empty."
   else 
-    
+    current_line 
   
 end   
