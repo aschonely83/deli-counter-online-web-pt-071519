@@ -21,7 +21,8 @@ def now_serving(deli)
     return "There is nobody waiting to be served!"
   else
     return puts " Currently serving #{deli.first}."
-    deli.push
+    deli.shift
+  end
 end  
   
   
