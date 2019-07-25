@@ -4,7 +4,7 @@ def line(deli)
     return "The line is currently empty."
   else 
     current_line = " The current line is:"
-    deli.
+    deli.each_with_index()
     
 
 end   
