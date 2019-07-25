@@ -3,7 +3,7 @@ def line(deli)
   if deli.empty?
     puts "The line is currently empty."
   else 
-    current_line = " The current line is:"
+    current_line = "The current line is:"
     deli.each_with_index(1) do |people, i|
       current_line << " #{i}. #{people}"
     end
