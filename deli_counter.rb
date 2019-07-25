@@ -20,7 +20,7 @@ def now_serving(deli)
   if deli.empty?
     return "There is nobody waiting to be served!"
   else
-    return 
+    return puts " Currently serving "
 end  
   
   
